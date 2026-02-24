@@ -328,3 +328,74 @@ Purpose: Improve squat strength through targeted core work
 - **Daily:** 5-10 min basic circuit
 - **3x/week:** Full 15-20 min session
 - **Pre-squat:** 10 min activation work
+
+---
+
+## Combat Sports Lifting Program
+**Duration:** Ongoing
+**Frequency:** 3-4 days/week
+**Goals:** Strength and power for MMA/combat sports
+
+### Philosophy
+Science-based approach balancing strength with sport demands. Machines are acceptable - "functional" isn't always better.
+
+### Key Parameters
+- **Rep Range:** 4-8 (5-10 acceptable)
+- **Intensity:** 0-1 RIR
+- **Weekly Volume:** 10-12 sets per muscle
+- **Session Volume:** ~12 total effective sets
+- **Rest:** 3 minutes minimum
+- **No intensifiers** (drop sets, rest-pause)
+
+### Split Options
+
+#### 3-Day Full Body
+**Day 1: Push Focus**
+- Chest Press Machine - 2 sets
+- Single Arm Cable Pushdown - 1 set
+- Lat Pulldown - 2 sets
+- DB Preacher Curl - 1 set
+- Machine Shoulder Press - 1 set
+- Hack Squat - 1 set
+- Seated Hamstring Curl - 1 set
+- Hip Thrust - 1 set
+- Seated Calf Raise - 1 set
+- Adductor Machine - 1 set
+
+#### 4-Day Upper/Lower
+
+**Upper A:**
+- Chest Press (converging) - 2 sets
+- Pec Dec - 2 sets
+- Wide Lat Pulldown - 2 sets
+- Chest Supported Row - 2 sets
+- Cable Pushdown - 1 set
+- Preacher Curl - 2 sets
+- Machine Press - 1 set
+- DB Lateral Raise - 2 sets
+
+**Lower A:**
+- Hack Squat - 2 sets
+- Seated Hamstring Curl - 2 sets
+- Hip Thrust Machine - 1 set
+- Seated Calf Raise - 2 sets
+- Adductor Machine - 2 sets
+- Cable Crunch - 2 sets
+
+### Combat-Specific Notes
+- **Lower body = punching power** (proven correlation)
+- Heavy squats ARE necessary
+- Include hip hinge every leg day
+- Towel pull-ups for grip strength
+- Weighted push-ups for functional pressing
+
+### MMA Conditioning Superset
+1. Explosive Arnold presses from hang
+2. Medicine ball ground to overhead
+3. Pull-ups finishing with muscle-up
+
+### Integration with Sport
+- Adjust volume based on competition schedule
+- Recovery critical with sport practice
+- Bike intervals for lactic acid tolerance
+- Balance heavy lifting with technical work

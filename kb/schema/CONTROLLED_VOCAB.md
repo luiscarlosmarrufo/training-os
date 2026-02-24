@@ -36,6 +36,15 @@
 - endurance
 - mobility
 - recovery
+- mma
+- combat_sports
+- muay_thai
+- boxing
+- grappling
+- running
+- conditioning
+- injury_prevention
+- rehabilitation
 
 ## muscles (primary/secondary)
 - quads

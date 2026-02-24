@@ -325,3 +325,84 @@
 - Include glute work (part of core system)
 - Zero movement in isometric holds
 - Quality over quantity always
+
+---
+
+## Hyrox Training Tips
+**Category:** Sport-Specific
+**Purpose:** Optimizing Hyrox performance
+
+### 100 Unbroken Wall Balls
+Build capacity through:
+1. **Thrusters** - Strength endurance base
+2. **Wall balls from floor** - No momentum, pure strength
+3. **DB push press** - Shoulder endurance
+4. **Strict press (heavy)** - Raw pressing power
+
+### Farmers Carry Sprint
+- Requires exceptional raw strength
+- Progressive grip and core overload
+- Practice walk-to-sprint transitions under load
+
+### Key Principles
+- Strength before endurance
+- Train movements under fatigue
+- Practice station transitions
+- Grip endurance is critical
+
+---
+
+## Massage Gun Technique
+**Category:** Recovery
+**The Rule:** Always work "toward the heart"
+
+### Application
+- **Lower body:** Feet upward to torso
+- **Upper body:** Hands inward to chest
+- **Back:** Lower back upward
+
+### Rationale
+- Assists lymphatic drainage
+- Improves venous return
+- Reduces inflammation
+- Enhances recovery
+
+### Protocol
+- 30-60 seconds per muscle
+- Light to moderate pressure
+- Move slowly along muscle
+- Post-workout or pre-bed
+
+---
+
+## Elite Athlete Observations
+**Category:** Performance
+**Purpose:** Learn from champions
+
+### Ilia Topuria (UFC)
+**Sprint Protocol:** 12 × 100m sprints
+- Builds anaerobic capacity
+- Power endurance for MMA
+
+**Neck Warmup:**
+- Half circle at bottom
+- Tight shrug at top
+- Prevents grappling injuries
+
+**Strength:**
+- Ring muscle-ups with pause
+- Balance board work
+- Explosive power focus
+
+### Arman Tsarukyan (MMA)
+**Bike Conditioning:**
+- Progressive resistance spinning
+- Lactic acid tolerance
+- MMA-specific endurance
+
+### Combat Sports Principles
+- Lower body strength = punching power
+- Jump tests predict striking force
+- Heavy squats ARE necessary
+- Towel pull-ups for grip
+- Balance explosive and endurance work

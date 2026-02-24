@@ -7,7 +7,10 @@ frequency: 1-2x per week
 # Shin Splints Prevention Protocol
 
 ## Overview
-Comprehensive protocol for preventing and treating shin splints (periostitis/anterior tibialis syndrome). Addresses root causes including weak feet, collapsed arches, and anterior tibialis weakness.
+Comprehensive protocol for preventing and treating shin splints (periostitis/anterior tibialis syndrome). Addresses root causes including weak feet, collapsed arches, anterior tibialis weakness, and force production/absorption imbalance.
+
+## Key Principle
+Shin splints occur when force producing > force your lower leg can absorb. Focus on single-leg force production and absorption capacity.
 
 ## Quick Relief Method
 - Enter plantar flexion position (kneeling)
@@ -49,12 +52,49 @@ Comprehensive protocol for preventing and treating shin splints (periostitis/ant
 2. Lunge hold calf raises - 10 reps each side
 3. Wall lean toe raises - 15-20 reps (further = harder)
 
+### Method 6: Advanced Force Production (Barefoot Recommended)
+1. Single leg weighted calf raises - Don't let foot roll out, pressure on big toe
+2. Tiptoe farmer's carry - Forward, backward, bent knee variations
+3. Bulgarian calf raises
+4. Fast single leg bridge to wall (tiptoe throughout)
+5. Single leg pogos - Other leg on bench
+6. Stagger stance pogos (boxing/muay thai guard)
+7. Lateral hop ups
+8. Tuck jumps
+
+### Method 7: Foot Strengthening with Bands
+1. Big toe pumps with resistance bands - 20×2
+2. Ankle eversions (band) - 20×2
+3. Heel walks - 40 steps total
+4. Tib raise to calf raise - 3×12 (band between big toes)
+5. Lateral toe steps (band between toes) - 3×20 alternating
+
+## Soleus Training (Handles 8× Bodyweight)
+Critical shock absorber - if weak, causes arch collapse and shin splints:
+1. Ball squeeze bent knee calf raises (ball between heels) - shoes off
+2. Weighted smith/bar calf raises
+3. Single leg bent knee calf raises with KB
+
+## Running Form Correction
+- Foot must land directly below center of gravity
+- Heel striking far in front of center creates excess shock
+- Practice midfoot landing under hips
+- Consider using toe spreaders for foot health
+
+## Performance Standards
+- KB tib raises: Work up to 15% bodyweight
+- Tib bar: Work up to 20% bodyweight
+- Single leg force production matches absorption capacity
+
 ## Key Points
 - Focus on controlled movements
 - Emphasize eccentric portion
 - Progress distance from wall for increased difficulty
 - Address both strength and mobility
 - Target collapsed arches and weak feet as root cause
+- Train barefoot when possible for better foot strength
+- Ice/cold plunge after intense sessions
+- Foam roll and stretch after training
 
 ## Frequency
 - Prevention: 1-2 sessions per week
