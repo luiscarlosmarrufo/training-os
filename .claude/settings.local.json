@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p inbox inbox/processed kb/{exercises,protocols,progressions,programs,routines,rules,glossary,schema} exports/notebooklm logs)",
+      "Bash(tree -L 3 -I '.git')",
+      "Bash(git add -A)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
