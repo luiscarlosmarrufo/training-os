@@ -296,3 +296,35 @@
 - Lower volume (3-5 reps)
 - Full recovery between sets
 - Focus on bar speed/velocity
+
+---
+
+## Standalone Routines
+
+### Core Training Routine
+**Duration:** 15-20 minutes
+**Frequency:** 3x/week or daily (lighter)
+**Philosophy:** Train CORE not just abs
+
+#### Basic Core Circuit
+1. **Lock clam** - 2×25 (glute activation)
+2. **Front planks** - 2×30 sec (zero movement)
+3. **Side planks** - 2×15 sec each (zero movement)
+4. **Shoulder taps** - 20 reps (anti-rotation)
+5. **Banded glute bridge** - 10×5 sec holds
+
+#### Advanced Core Circuit
+1. **Weighted hanging knee raises** - 3×8-12
+2. **Windshield wipers** - 3×10 each side
+3. **Side plank leg raises** - 3×10 each side
+
+#### Squat-Specific Core
+Purpose: Improve squat strength through targeted core work
+- Weighted hanging knee raises (hip flexor strength)
+- Windshield wipers (obliques and lower back)
+- Side plank with leg raise (lateral stability)
+
+#### Programming Options
+- **Daily:** 5-10 min basic circuit
+- **3x/week:** Full 15-20 min session
+- **Pre-squat:** 10 min activation work

@@ -168,3 +168,137 @@ Sequential exercise performance with minimal rest between stations.
 - Choose non-competing exercises
 - Scale difficulty to maintain quality
 - Track round times for progression
+
+---
+
+## Shin Splints Prevention Protocol
+
+### Overview
+Comprehensive approach to preventing and treating shin splints through targeted strengthening and mobility work.
+
+### Quick Relief
+- Kneel in plantar flexion position
+- Shift weight back into ankles
+- Hold 30-60 seconds for anterior tibialis stretch
+
+### Prevention Methods
+
+**Warmup (2-week cure):**
+1. Heel walks - 2×20-30 steps
+2. Toe taps - 2×20-30 steps
+3. Pogo jumps - 2×20-30 jumps
+
+**Strengthening Options:**
+- Wall tibialis raises (progress distance from wall)
+- Band resistance dorsiflexion and inversion
+- Tib bar raises at 20% bodyweight
+- Single-leg calf raises with 4-second eccentrics
+- Arch lifts/short foot exercise
+
+### Programming
+- Prevention: 1-2x per week
+- Active rehab: 2-3x per week
+- Focus on controlled movement and full ROM
+
+---
+
+## Posture Correction Protocol
+
+### Overview
+Multiple approaches to correct forward head posture, neck hump, and anterior pelvic tilt.
+
+### Basic Daily Routine
+1. Wall angels - 10 reps
+2. Lat stretch - 30 sec
+3. Leg hugs - 30 sec
+4. Cobra stretch - 30 sec
+
+### Neck/Forward Head Correction
+**Extension restoration:**
+- Prone head hangs with chin tuck to extension
+- Chin tuck with rotation
+- Cat-cow spinal mobility
+
+**Realignment sequence:**
+1. Chin tuck extensions - 10 reps
+2. Side-lying neck lifts - 10 per side
+3. Gravity chin tucks - 8-10 reps
+
+### Anterior Pelvic Tilt Correction
+1. Shoulder dislocations with band/stick
+2. Wall angels with core engaged
+3. Hip flexor stretch with posterior pelvic tilt
+4. Progression from double to single-leg glute bridges
+
+---
+
+## Neck Training Protocol (Huberman Method)
+
+### Overview
+Safe neck strengthening avoiding dangerous bridges, using controlled weighted movements.
+
+### Setup
+- Lie on bench, stabilize with one arm
+- 5-10 lb plate wrapped in towel
+- Tongue on roof of mouth, jaw shut
+- Nasal breathing only
+
+### Exercise Execution
+**Lateral Flexion:** 3×10-25 reps each side (30-45° ROM)
+**Extension:** 3×10-15 reps (prone position)
+**"Kiss the Sky":** Bodyweight only, targets deep muscles
+
+### Safety Rules
+- Never use weighted bridges
+- Conservative ROM (30-45 degrees max)
+- Start with 5-10 lbs maximum
+- 72 hours between sessions
+- Stop if dizzy or sharp pain
+
+---
+
+## Pistol Squat Progression
+
+### Overview
+Systematic approach to achieving the pistol squat through mobility, strength, and technical development.
+
+### Prerequisites
+**Wall squat test:** Must squat with back fully against wall
+**Dorsiflexion:** Adequate ankle mobility required
+
+### Progression Phases
+1. **Step-ups** with gradual leg extension (5-8 reps)
+2. **Eccentric training** (4-6 second descents)
+3. **Chair pistol squats** (adjustable height)
+4. **Assisted full range** (band/TRX support)
+5. **Full unassisted** pistol squat
+
+### Key Technical Points
+- Active core compression
+- Arms reach forward for counterbalance
+- Knee tracks outward
+- Push through heel
+- Practice 2-3x per week
+
+---
+
+## VMO Strengthening Protocol
+
+### Overview
+Targeted development of the vastus medialis oblique for knee health and stability.
+
+### Primary Methods
+1. **Sled work** - Forward and backward drags
+2. **Elevated heel step-ups** - Toe out, knee slightly inward
+3. **Heels-elevated squats** - Progressive loading
+
+### Programming Options
+**Dedicated VMO day:** Sled + step-ups + elevated squats
+**Pre-activation:** 2 sets bodyweight elevated squats before legs
+**Finisher:** High-rep elevated squats with constant tension
+
+### Progression
+- Weeks 1-2: Mind-muscle connection
+- Weeks 3-4: Volume increase
+- Weeks 5-6: Add resistance
+- Weeks 7+: Progressive overload

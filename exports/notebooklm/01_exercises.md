@@ -107,3 +107,47 @@
 - Chest-to-Floor Burpee
 - Farmer's Carry
 - BB Thruster
+
+## Rehabilitation/Prehab Exercises
+
+### Tibialis Raise
+- **Movement Pattern:** Mobility
+- **Primary Muscles:** Tibialis Anterior
+- **Fatigue:** Low systemic, Moderate local
+- **Spinal Load:** Low
+- **Best For:** Injury prevention, Rehabilitation
+- **Variations:** Wall, slanted, seated banded, tib bar
+- **Notes:** Critical for shin splint prevention. Can be trained daily if needed.
+
+### Wall Angels
+- **Movement Pattern:** Mobility
+- **Primary Muscles:** Shoulders, Upper Back
+- **Secondary Muscles:** Core
+- **Fatigue:** Low systemic, Low local
+- **Spinal Load:** Low
+- **Best For:** Posture, Mobility, Recovery
+- **Notes:** Diagnostic tool for shoulder mobility. Regular practice improves posture.
+
+### Shoulder Taps
+- **Movement Pattern:** Core
+- **Primary Muscles:** Core, Shoulders
+- **Secondary Muscles:** Chest, Triceps
+- **Fatigue:** Moderate systemic, Moderate local
+- **Spinal Load:** Low
+- **Best For:** Core stability, Anti-rotation training
+- **Notes:** Focus on zero torso movement. Quality over speed.
+
+## Additional Prehab/Mobility
+- Heel Walks
+- Toe Taps (foot)
+- Pogo Jumps
+- Band Resistance Dorsiflexion
+- Band Resistance Ankle Inversion
+- Arch Lifts (Short Foot Exercise)
+- Chin Tuck Extensions
+- Side-Lying Neck Lifts
+- Gravity Chin Tucks
+- Cat-Cow
+- Prone Swimmers
+- Quadruped T-Spine Rotation
+- Hip Flexor T-Spine Rotation

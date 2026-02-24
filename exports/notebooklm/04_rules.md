@@ -249,3 +249,79 @@
 - 5-6x/week possible
 - Advanced techniques (clusters, waves)
 - Careful volume management
+
+---
+
+## 5 Tips to Improve Squats
+**Category:** Technique
+**Purpose:** Optimizing squat performance and safety
+
+### The 5 Key Cues
+1. **Neutral Spine** - Maintain natural curves, no excessive arching/rounding
+2. **Elbows to Front** - Creates upper back tightness and better bar position
+3. **Think "Lat Pulldown"** - Pull bar into traps for stability
+4. **Think "Spread the Floor"** - External rotation cue for glute activation
+5. **Brace Core Every Rep** - Prevents instability and protects spine
+
+### Implementation
+- Practice each cue individually first
+- Combine gradually with lighter weights
+- Film yourself to check form
+- Reset between reps if needed
+
+### Why These Work
+- Neutral spine: Force transfer and injury prevention
+- Elbows front: Upper back stability
+- Lat pulldown: Creates stable shelf for bar
+- Spread floor: Glute activation and knee tracking
+- Core bracing: Power transfer and spinal protection
+
+---
+
+## Max Lift Visualization Technique
+**Category:** Performance
+**Purpose:** Optimizing nervous system for maximum efforts
+
+### The Protocol
+1. **Close your eyes** before approaching bar
+2. **Deep inhale** while visualizing
+3. **Visualize RED color** filling your vision
+4. **See yourself** completing the lift perfectly
+5. **Exhale and open eyes**
+6. **Immediately execute** the lift
+
+### When to Use
+- 1RM attempts
+- Competition lifts
+- PR attempts
+- Final heavy sets
+- Any true maximal effort
+
+### Rationale
+- Red color associated with power and sympathetic activation
+- Visualization primes motor patterns
+- Breathing regulates nervous system
+- Creates consistent pre-lift routine
+- Based on Gateway Tapes/color breathing techniques
+
+### Common Mistakes
+- Taking too long (loses activation)
+- Shallow breathing
+- Vague visualization
+- Using for every set (save for max efforts)
+
+---
+
+## Training Notes & Observations
+
+### Ilia Topuria Sprint Protocol
+- 12 × 100 meter sprints
+- Used by elite MMA fighter
+- Builds anaerobic capacity and power endurance
+
+### Core Training Philosophy
+- Train CORE not just abs
+- Focus on stability and anti-rotation
+- Include glute work (part of core system)
+- Zero movement in isometric holds
+- Quality over quantity always

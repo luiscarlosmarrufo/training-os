@@ -21,6 +21,9 @@
 - WG -> wide grip
 - NG -> neutral grip
 - T1, T2, T3 -> tier 1, 2, 3 (exercise priority levels)
+- VMO -> vastus medialis oblique
+- ROM -> range of motion
+- FBB -> full body [workout]
 
 ## Exercise aliases
 # Format: canonical_name: [alias1, alias2, alias3]
@@ -37,6 +40,13 @@ pull_up: [pullup, pull-up, pullups]
 chin_up: [chinup, chin-up, chins]
 barbell_row: [bb row, bent over row]
 dumbbell_row: [db row, single arm row]
+tibialis_raise: [tib raise, anterior tibialis raise, wall toe raise, tib turns]
+wall_angels: [wall slides, scapular wall slides]
+pistol_squat: [single leg squat]
+hanging_knee_raise: [knee raises, hanging knee raises]
+calf_raise: [calf raises, heel raises]
+glute_bridge: [hip bridge, glute bridges]
+hip_thrust: [barbell hip thrust, hip thrusts]
 
 ## Protocol aliases
 rest_pause: [max, rest-pause, cluster]
