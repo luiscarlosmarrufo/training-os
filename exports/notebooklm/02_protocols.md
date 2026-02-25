@@ -375,3 +375,127 @@ Shin splints = Force production > Force absorption capacity
 - KB tib raises: 15% bodyweight
 - Tib bar: 20% bodyweight
 - Match force production to absorption
+
+---
+
+## Arm Training Protocol
+
+### Overview
+Science-based arm building targeting all heads of triceps (70% of arm mass), biceps, and forearms.
+
+### Triceps Focus
+**Long Head (majority of size):**
+- Single-arm cable overhead extension
+- Elbow stays in place, all sets to failure
+- 2 sets each arm
+
+**Lateral/Medial Heads:**
+- Close-grip bench, JM press, or pushdowns
+- 2-3 sets
+
+### Biceps Strategy
+- **Elbow behind torso** = long head emphasis
+- **Elbow in front** = short head emphasis
+- Bison cable curls for long head (2 sets each)
+- DB hammer preacher curls for short head (1 set each)
+- Reverse curls for brachialis
+
+### Forearms
+- Wrist flexion/extension - 2 sets each
+- Reverse curls for brachioradialis
+- Train 2-3× weekly (fast recovery)
+
+### Volume
+- 4-5 sets per muscle per session
+- 2× per week frequency
+- All sets to failure or 0-1 RIR
+
+---
+
+## Wrist Strengthening for Boxing
+
+### Complete Protocol (High Volume)
+**Mat Work:**
+1. Palm lifts - 4×30 sec
+2. Closed fist deviations - 3×45 sec
+3. Hand-hand-fist-fist - 3×60 sec
+
+**Grip Work:**
+- Heavy grip trainer - 4×20 reps
+- Grip holds - 4×15 sec
+
+**Weighted Work:**
+- DB wrist flexion - 4×20
+- DB iso holds - 4×30 sec
+- DB supination - 4×20
+
+### Explosive Power
+- Band ground & pound punches
+- Medicine ball rotations with band
+- Punch isometrics with gloves
+
+### Standards
+- Grip: bodyweight equivalent
+- Wrist flexion: 25% BW for reps
+- Holds: 60+ seconds
+
+---
+
+## Hip Mobility & Strengthening
+
+### Quick Fix for Tight Hips
+1. Hip CARs (perfect posture) - 5 reps each direction
+2. Butterfly pulses - 20-30
+3. Seated hip flexor lifts
+4. Deep cossack internal rotations
+
+### Strengthening Workout
+**Warmup Flow:**
+- Hydrants, hip circles, leg raises
+- Bridge ISOs, single leg bridges
+- Band walks, clamshells, step-overs
+
+**Main Work:**
+- KB goblet box squats (banded) - 3×10
+- Copenhagen planks - 3×10-20 sec
+- KB lateral squats - 3×8
+- Side plank clamshells - 2×8
+- Single leg hip thrusts - 3×8
+
+### Hip Flexor Goals
+- L-sit for 30 seconds
+- 30 knee raises without swinging
+- Couch stretch back to wall
+
+---
+
+## Foot & Ankle Strengthening
+
+### Big Toe Control (Foundation)
+**Critical:** Must lift big toe independently
+- Wall corner holds - 1-2 min
+- Press and release cycles
+- Toe waves for coordination
+
+### Arch Rebuilding
+**For Flat Feet:**
+- Front foot elevated splits (weight opposite side)
+- Banded big toe work
+- Ball squeeze calf raises
+
+**Barefoot Essentials:**
+- Towel toe curls - 3×20
+- Walking variations (heel, toe, edges)
+- Foot lace ankle circles - 3×10 each
+
+### Three Points of Contact
+Always maintain during training:
+1. Heel
+2. Base of big toe
+3. Base of little toe
+
+### Performance Goals
+- Independent toe control
+- 60+ seconds single leg balance
+- Full dorsiflexion in squat
+- Strong arches without support

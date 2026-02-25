@@ -23,11 +23,42 @@ applies_to: [mma, combat_sports, conditioning]
 - Balance board work for proprioception
 - Focus on explosive power
 
+### Complete S&C Program Observed
+- **Squats** - Heavy for lower body power
+- **Plyometric knee raise jumps** - Explosive hip flexion
+- **Bench press** - Upper body strength
+- **KB diagonal explosive** - Kneeling, opposite leg to overhead
+- **KB explosive raise** - Full extension overhead
+- **Russian twists** - Plate oblique work
+- **Landmine rotations** - Side to opposite arm
+- **KB thrusters** - Power endurance
+- **Plyo pogos** - Side to side over obstacle
+- **Battle ropes** - Conditioning
+- **Pull-ups** - Upper body pulling
+- **Med ball side slams** - Rotate up, slam center
+- **Plank** - Core stability
+
+### Additional Training
+- **Hammer tire strikes** - Power endurance
+- **Leg press** - Supplemental leg strength
+- **Explosive barbell work** - Olympic variations
+- **Curls** - Arm hypertrophy
+- **Knee circles** - Mobility work
+
 ## Arman Tsarukyan (MMA)
 ### Bike Conditioning
 - Spinning bike with progressive resistance
 - Builds lactic acid tolerance
 - Specific for MMA endurance requirements
+- Multiple observations of this training method
+
+## Islam Makhachev & Artur Beterbiev
+### Wrist/Grip Conditioning
+**Plank Position Sequence:**
+- Start in plank stance
+- Fingers → Fist → Wrists → Fists → Fingers
+- Continuous rotation through positions
+- Builds wrist resilience and grip endurance
 
 ## General MMA/Combat Sports Principles
 

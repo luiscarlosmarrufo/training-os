@@ -188,3 +188,116 @@ Stiff connective tissue increases running economy - don't need excessive flexibi
 - Opens chest and shoulders
 - Improves thoracic mobility
 - Reduces upper back pain
+
+---
+
+## Boxing Core Training
+**Duration:** 20-30 minutes
+**Purpose:** Develop ability to take body shots
+
+### The Gauntlet (No Rest)
+1. Half crunches - 50 reps
+2. Full crunches - 30 reps
+3. Heel taps - 25 each side
+4. V-sits - 20 reps
+5. Flutter kicks - 30 reps
+6. Scissor kicks - 30 reps
+7. Leg raises - 30 reps
+8. Russian twists - 25 each (10kg plate)
+9. Sit-ups with plate overhead - 30 reps
+10. Plate side raises - 25 reps
+
+**Rest 2-3 min, repeat 2-3 rounds**
+
+### Advanced Variations
+- Bench bridge plate transfers
+- Medicine ball side slams
+- Plank/bird dog pull-throughs
+
+---
+
+## Combat Sports Cardio Workouts
+**4 Energy System Protocols**
+
+### 1. Max Power (Creatine Phosphate)
+- 10 sec all-out → 50 sec rest
+- 8-10 rounds
+- Assault bike/sprints
+
+### 2. Anaerobic Capacity (Glycolytic)
+- 15 sec hard → 45 sec rest
+- 6 rounds, 3 min recovery, repeat 3-4×
+- Builds lactate tolerance
+
+### 3. Endurance Engine (Oxidative)
+- 2 min moderate → 1 min easy
+- 20-30 minutes continuous
+- Base conditioning
+
+### 4. HIIT/Tabata
+- 20 sec max → 10 sec rest
+- 8-10 rounds
+- VO2 max improvement
+
+### Fighter Programming
+- 2-3 different protocols per week
+- Match to fight demands
+- Allow proper recovery
+
+---
+
+## Hyrox Leg Strength Workout
+**Duration:** 45 minutes
+**Focus:** Strength with endurance
+
+### Main Workout
+1. **Sled Push** - 10m × 5, 60 sec rest
+2. **Box Squat × Box Jump** - 4×6 each (complex)
+3. **Single Leg Ham Curl** - 4×6, 3-1-3 tempo
+4. **Single Leg Extension Hold** - 2×50 sec
+
+### Conditioning Finisher (20 min)
+**EMOM Circuit:**
+- Min 1: Bike 1km
+- Min 2: Walking lunges 30m
+- Min 3: Burpee to plate ×5
+
+### 5 Key Single-Leg Builders
+1. KB front foot elevated splits - 3-4×8-10
+2. Reverse lunges - 3-4×8-10
+3. Bulgarian split squats - 3-4×6-8
+4. Cossack squats (supported) - 3-4×6-8
+5. Kickstand squats - 4×10-12
+
+---
+
+## Hip Strengthening Circuit
+**Full workout with warmup**
+
+### Floor Warmup Series
+- Hydrants ×5
+- Hip circles ×5
+- Straight leg raises ×5
+- Bridge ISOs ×5
+- Single leg bridges ×5
+- Lateral band walks ×8
+- Standing clamshells ×6
+- Lateral step-overs ×5
+- Step-overs ×5
+- Up and unders ×5
+
+### Main Supersets
+**Set A:**
+- KB goblet box squat (banded) - 3×10
+- Copenhagen plank - 3×10-20 sec
+- 90/90 mobility - ×8
+
+**Set B:**
+- KB lateral squat - 3×8
+- Side plank clamshells - 2×8
+- Hip airplanes - 3×6
+
+**Set C:**
+- Single leg hip thrust - 3×8
+- Incline pigeon stretch - ×5
+- Airbike finisher

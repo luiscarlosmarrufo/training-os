@@ -406,3 +406,79 @@ Build capacity through:
 - Heavy squats ARE necessary
 - Towel pull-ups for grip
 - Balance explosive and endurance work
+
+### Additional Athletes
+**Islam Makhachev & Artur Beterbiev:**
+- Plank position wrist conditioning
+- Fingers → Fist → Wrists → Fists → Fingers rotation
+- Builds wrist resilience and grip endurance
+
+---
+
+## Boxing Strength Standards
+**Category:** Performance Standards
+**Purpose:** Minimum requirements before sport-specific work
+
+### Required Minimums
+1. **Bench Press:** 1.0-1.2× bodyweight (3RM)
+2. **Trap Bar Deadlift:** 1.85-2.0× bodyweight (3RM)
+3. **Pull-Ups:** 15 reps minimum
+
+### Programming After Achieving
+- Maintain with 1-2 sessions/week
+- Shift focus to speed/power/conditioning
+- Add plyometrics and Olympic lifts
+- Prioritize technical skill development
+
+### Testing Protocol
+- Test every 8-12 weeks
+- Use 3RM (more reliable than 1RM for fighters)
+- Consider fight schedule
+- Same conditions for consistency
+
+---
+
+## Performance Enhancement Techniques
+**Category:** Training Optimization
+
+### Cool Hands Between Sets (Huberman)
+- Cool palms between sets
+- 30-60 seconds with cold water
+- Reduces core temperature
+- Can improve strength performance
+- Best for heavy training or hot environments
+
+### 50 Jumps Upon Waking
+- Activates nervous system
+- Improves all-day alertness
+- Builds movement habit
+- Progress to weighted jumps
+
+### Deep Squat Achievement
+From deep squat, perform:
+- Knee push-aways ×20
+- Overhead reaches ×20
+- Forward folds ×10
+- Internal rotations ×10
+- Squat to fold ×10
+
+### Three Points of Foot Contact
+During ALL lower body training:
+1. Heel
+2. Base of big toe
+3. Base of little toe
+
+### Bulletproof Back Standards
+Long-term goals:
+- Back extension: 20% bodyweight
+- QL extension: 20% bodyweight
+- 30 knee raises without swinging
+- L-sit for 30 seconds
+- Couch stretch with back to wall
+- Incline pigeon as rest position
+
+### Additional Techniques
+- **Spine decompression:** Inversion boots 2-5 min daily
+- **Neck pain fix:** Use landmine press instead of barbell
+- **Hyoid training:** Neck curls and chin tucks for aesthetics
+- **Fast twitch development:** Sprinting, jumping, plyometrics
